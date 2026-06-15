@@ -5,4 +5,4 @@ name = input("Please enter your name: ")
 
 print("Hello - welocme - " + name)
 
-print("ends here - thank you")
+print("ends here")
